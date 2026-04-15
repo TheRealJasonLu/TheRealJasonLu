@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="HELLO, I'M JASON banner" width="100%" />
+  <img src="./assets/banner.svg" width="100%" />
 </p>
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=TheRealJasonLu&label=PROFILE%20VIEWS&style=for-the-badge&color=111111" alt="Profile Views" />
+    <td align="center" width="21%">
+      <img src="https://komarev.com/ghpvc/?username=TheRealJasonLu&label=PROFILE%20VIEWS&style=for-the-badge&color=111111" height="28"/>
     </td>
-    <td align="center">
-      <img src="./assets/python-badge.svg" alt="Python badge" />
+    <td align="center" width="31%">
+      <img src="./assets/python-badge.svg" height="28"/>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/followers/TheRealJasonLu?label=FOLLOWERS&style=for-the-badge&color=111111" alt="Followers" />
+    <td align="center" width="22%">
+      <img src="https://img.shields.io/github/followers/TheRealJasonLu?label=FOLLOWERS&style=for-the-badge&color=111111" height="28"/>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/TheRealJasonLu?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=for-the-badge&color=111111" alt="Stars" />
+    <td align="center" width="28%">
+      <img src="https://img.shields.io/github/stars/TheRealJasonLu?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=for-the-badge&color=111111" height="28"/>
     </td>
   </tr>
 </table>
