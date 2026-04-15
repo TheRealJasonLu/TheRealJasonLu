@@ -17,15 +17,15 @@
       <text x="165" y="190"
             fill="white"
             font-family="Impact, Haettenschweiler, 'Arial Black', sans-serif"
-            font-size="170"
+            font-size="188"
             font-weight="900"
-            letter-spacing="-7">HELLO,</text>
+            letter-spacing="-2">HELLO,</text>
       <text x="165" y="358"
             fill="white"
             font-family="Impact, Haettenschweiler, 'Arial Black', sans-serif"
             font-size="188"
             font-weight="900"
-            letter-spacing="-8">I'M JASON</text>
+            letter-spacing="-3">I'M JASON</text>
     </mask>
 
     <linearGradient id="stroke1" x1="48" y1="470" x2="348" y2="566" gradientUnits="userSpaceOnUse">
