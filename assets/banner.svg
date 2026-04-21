@@ -1,4 +1,4 @@
-<svg width="1400" height="620" viewBox="0 0 1400 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1120" height="400" viewBox="0 0 1120 400" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="titleGrad" x1="170" y1="60" x2="1180" y2="370" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#FF3A3A"/>
@@ -13,7 +13,7 @@
     </pattern>
 
     <mask id="titleMask">
-      <rect width="1400" height="620" fill="black"/>
+      <rect width="1120" height="400" fill="black"/>
       <text x="165" y="190"
             fill="white"
             font-family="Impact, Haettenschweiler, 'Arial Black', sans-serif"
@@ -30,7 +30,16 @@
   </defs>
 
   <g mask="url(#titleMask)">
-    <rect width="1400" height="420" fill="url(#titleGrad)"/>
-    <rect width="1400" height="420" fill="url(#scanlines)"/>
+    <rect width="1120" height="400" fill="url(#titleGrad)"/>
+    <rect width="1120" height="400" fill="url(#scanlines)"/>
   </g>
+
+  <image
+    href="https://raw.githubusercontent.com/TheRealJasonLu/TheRealJasonLu/main/assets/hi.gif"
+    x="900"
+    y="95"
+    width="170"
+    height="170"
+    preserveAspectRatio="xMidYMid meet"
+  />
 </svg>
