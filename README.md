@@ -1,9 +1,9 @@
-<table align="center" width="100%">
+<table align="center" width="100%" style="border:none; border-collapse:collapse;">
   <tr>
-    <td width="72%" align="left" valign="middle">
+    <td width="72%" align="left" valign="middle" style="border:none;">
       <img src="./assets/banner.svg" width="100%" />
     </td>
-    <td width="28%" align="center" valign="middle">
+    <td width="28%" align="center" valign="middle" style="border:none;">
       <img src="./assets/hi.gif" width="170" />
     </td>
   </tr>
