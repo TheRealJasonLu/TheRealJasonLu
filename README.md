@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="72%" align="left" valign="middle">
+      <img src="./assets/banner.svg" width="100%" />
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="./assets/hi.gif" width="170" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheRealJasonLu&label=Visits&style=flat-square&color=76E34F" />
