@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./assets/banner.svg" width="70%" />
-  <img src="./assets/hi.gif" width="170" />
+  <img src="./assets/hi.gif" width="170" style="vertical-align: middle;" />
 </p>
 
 <p align="center">

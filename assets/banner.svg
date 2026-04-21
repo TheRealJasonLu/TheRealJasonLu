@@ -14,13 +14,16 @@
 
     <mask id="titleMask">
       <rect width="900" height="400" fill="black"/>
-      <text x="165" y="190"
+      
+      <!-- SHIFTED LEFT -->
+      <text x="85" y="190"
             fill="white"
             font-family="Impact, Haettenschweiler, 'Arial Black', sans-serif"
             font-size="188"
             font-weight="900"
             letter-spacing="-2">HELLO,</text>
-      <text x="165" y="370"
+
+      <text x="85" y="370"
             fill="white"
             font-family="Impact, Haettenschweiler, 'Arial Black', sans-serif"
             font-size="188"
