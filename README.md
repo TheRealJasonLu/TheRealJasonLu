@@ -1,13 +1,7 @@
-<table align="center" width="100%" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td width="72%" align="left" valign="middle" style="border:none;">
-      <img src="./assets/banner.svg" width="100%" />
-    </td>
-    <td width="28%" align="center" valign="middle" style="border:none;">
-      <img src="./assets/hi.gif" width="170" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/banner.svg" width="70%" />
+  <img src="./assets/hi.gif" width="170" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheRealJasonLu&label=Visits&style=flat-square&color=76E34F" />
