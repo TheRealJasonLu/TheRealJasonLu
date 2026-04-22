@@ -1,9 +1,13 @@
-<p align="center">
-  <span style="display: inline-flex; align-items: center; gap: 20px;">
-    <img src="./assets/banner.svg" width="70%" />
-    <img src="./assets/hi.gif" width="170" />
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="./assets/banner.svg" width="700" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="./assets/hi.gif" width="170" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheRealJasonLu&label=Visits&style=flat-square&color=76E34F" />

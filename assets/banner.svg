@@ -1,22 +1,29 @@
 <svg width="900" height="400" viewBox="0 0 900 400" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="titleGrad" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FF2A2A"/>
-      <stop offset="25%" stop-color="#FF3A3A"/>
-      <stop offset="50%" stop-color="#FF0000"/>
-      <stop offset="75%" stop-color="#FF7A00"/>
-      <stop offset="100%" stop-color="#FFB800"/>
+    <linearGradient id="titleGrad" x1="60" y1="80" x2="880" y2="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF2D3A"/>
+      <stop offset="18%" stop-color="#FF313D"/>
+      <stop offset="38%" stop-color="#FF2A2A"/>
+      <stop offset="58%" stop-color="#FF3A1A"/>
+      <stop offset="76%" stop-color="#FF5A0A"/>
+      <stop offset="90%" stop-color="#FF7A00"/>
+      <stop offset="100%" stop-color="#FFA000"/>
+    </linearGradient>
+
+    <linearGradient id="bgGlow" x1="0" y1="0" x2="900" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2A0A12" stop-opacity="0.55"/>
+      <stop offset="45%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </linearGradient>
 
     <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
       <rect width="8" height="8" fill="transparent"/>
-      <rect y="3" width="8" height="1.2" fill="#B7B7B7" opacity="0.16"/>
+      <rect y="3" width="8" height="1.1" fill="#FFFFFF" opacity="0.09"/>
     </pattern>
 
     <mask id="titleMask">
       <rect width="900" height="400" fill="black"/>
-      
-      <!-- SHIFTED LEFT -->
+
       <text x="85" y="190"
             fill="white"
             font-family="Impact, Haettenschweiler, 'Arial Black', sans-serif"
@@ -35,6 +42,7 @@
 
   <g mask="url(#titleMask)">
     <rect width="900" height="400" fill="url(#titleGrad)"/>
+    <rect width="900" height="400" fill="url(#bgGlow)"/>
     <rect width="900" height="400" fill="url(#scanlines)"/>
   </g>
 </svg>
