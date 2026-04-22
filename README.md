@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="70%" />
-  <img src="./assets/hi.gif" width="170" style="vertical-align: middle;" />
+  <span style="display: inline-flex; align-items: center; gap: 20px;">
+    <img src="./assets/banner.svg" width="70%" />
+    <img src="./assets/hi.gif" width="170" />
+  </span>
 </p>
 
 <p align="center">
