@@ -1,10 +1,10 @@
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="./assets/banner.svg" width="700" style="background-color:transparent; border:0; box-shadow:none;" />
+<table align="center" style="border:none; border-collapse:collapse;">
+  <tr style="border:none;">
+    <td align="center" valign="middle" style="border:none; padding:0;">
+      <img src="./assets/banner.svg" width="700" style="display:block;" />
     </td>
-    <td align="center" valign="middle">
-      <img src="./assets/hi.gif" width="170" style="background-color:transparent; border:0; box-shadow:none;" />
+    <td align="center" valign="middle" style="border:none; padding:0;">
+      <img src="./assets/hi.gif" width="170" style="display:block;" />
     </td>
   </tr>
 </table>
