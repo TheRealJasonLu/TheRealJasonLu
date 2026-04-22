@@ -1,10 +1,10 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="./assets/banner.svg" width="700" />
+      <img src="./assets/banner.svg" width="700" style="background-color:transparent; border:0; box-shadow:none;" />
     </td>
     <td align="center" valign="middle">
-      <img src="./assets/hi.gif" width="170" />
+      <img src="./assets/hi.gif" width="170" style="background-color:transparent; border:0; box-shadow:none;" />
     </td>
   </tr>
 </table>
